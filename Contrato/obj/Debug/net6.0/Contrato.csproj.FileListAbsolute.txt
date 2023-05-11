@@ -1,0 +1,63 @@
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\bin\Debug\net6.0\appsettings.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\bin\Debug\net6.0\Contrato.exe
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\bin\Debug\net6.0\Contrato.deps.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\bin\Debug\net6.0\Contrato.runtimeconfig.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\bin\Debug\net6.0\Contrato.dll
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\bin\Debug\net6.0\Contrato.pdb
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\obj\Debug\net6.0\Contrato.csproj.AssemblyReference.cache
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\obj\Debug\net6.0\Contrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\obj\Debug\net6.0\Contrato.AssemblyInfoInputs.cache
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\obj\Debug\net6.0\Contrato.AssemblyInfo.cs
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\obj\Debug\net6.0\Contrato.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\obj\Debug\net6.0\Contrato.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\obj\Debug\net6.0\scopedcss\bundle\Contrato.styles.css
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\obj\Debug\net6.0\Contrato.dll
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\obj\Debug\net6.0\refint\Contrato.dll
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\obj\Debug\net6.0\Contrato.pdb
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\obj\Debug\net6.0\Contrato.genruntimeconfig.cache
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato\contrato\obj\Debug\net6.0\ref\Contrato.dll
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\obj\Debug\net6.0\Contrato.csproj.AssemblyReference.cache
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\obj\Debug\net6.0\Contrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\obj\Debug\net6.0\Contrato.AssemblyInfoInputs.cache
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\obj\Debug\net6.0\Contrato.AssemblyInfo.cs
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\obj\Debug\net6.0\Contrato.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\obj\Debug\net6.0\Contrato.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\obj\Debug\net6.0\Contrato.dll
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\obj\Debug\net6.0\refint\Contrato.dll
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\obj\Debug\net6.0\Contrato.pdb
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\bin\Debug\net6.0\appsettings.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\bin\Debug\net6.0\Contrato.exe
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\bin\Debug\net6.0\Contrato.deps.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\bin\Debug\net6.0\Contrato.runtimeconfig.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\bin\Debug\net6.0\Contrato.dll
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\bin\Debug\net6.0\Contrato.pdb
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\obj\Debug\net6.0\scopedcss\bundle\Contrato.styles.css
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\obj\Debug\net6.0\Contrato.genruntimeconfig.cache
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio\Contrato\obj\Debug\net6.0\ref\Contrato.dll
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\bin\Debug\net6.0\appsettings.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\bin\Debug\net6.0\Contrato.exe
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\bin\Debug\net6.0\Contrato.deps.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\bin\Debug\net6.0\Contrato.runtimeconfig.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\bin\Debug\net6.0\Contrato.dll
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\bin\Debug\net6.0\Contrato.pdb
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\obj\Debug\net6.0\Contrato.csproj.AssemblyReference.cache
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\obj\Debug\net6.0\Contrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\obj\Debug\net6.0\Contrato.AssemblyInfoInputs.cache
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\obj\Debug\net6.0\Contrato.AssemblyInfo.cs
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\obj\Debug\net6.0\Contrato.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\obj\Debug\net6.0\Contrato.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\obj\Debug\net6.0\scopedcss\bundle\Contrato.styles.css
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\obj\Debug\net6.0\Contrato.dll
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\obj\Debug\net6.0\refint\Contrato.dll
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\obj\Debug\net6.0\Contrato.pdb
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\obj\Debug\net6.0\Contrato.genruntimeconfig.cache
+C:\Users\mauro\Desktop\Capacitación E-Partners\Training\API + Contrato + Servicio + Repositorio\Contrato\obj\Debug\net6.0\ref\Contrato.dll
